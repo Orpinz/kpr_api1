@@ -125,4 +125,4 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 STATIC_ROOT = BASE_DIR / 'staticfiles'
-ALLOWED_HOSTS = ['username.pythonanywhere.com']
+ALLOWED_HOSTS = ['kaliop35.pythonanywhere.com']
